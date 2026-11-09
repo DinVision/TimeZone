@@ -7,6 +7,6 @@ Din Time Zone App does not collect any personally identifiable information (PII)
 The app only accesses local files and folders based on user actions to provide its functionality. 
 The app does not transmit or store any data outside of your local machine. 
 No data is shared with third-party services.
-Din Quick Launch does not use third-party services for analytics, marketing, or any other purpose. 
+Din Time Zone does not use third-party services for analytics, marketing, or any other purpose. 
 All data remains on your device. 
 If you have any questions or concerns about this privacy policy, please contact us at dinvision.bc@gmail.com.
